@@ -1,0 +1,32 @@
+.images{height: 200px;
+width: 200px;
+border: solid;
+border-width: 5px;}
+main{display: grid;
+grid-template-columns: 25% 25% 25%;
+justify-content: space-around;
+background-color:white ;}
+div{display: inline-block;}
+p{text-align: center;
+color: black;
+font-size: 120%;
+font-weight: 100;
+font-family: monospace;
+background-color: rgb(215, 232, 234);}
+header{background-color: rgb(215, 232, 234);}
+body{background-color: white;}
+ol, ul{color: rgb(177, 38, 57);
+font-size: large;
+font-family: 'Times New Roman', Times, serif;
+font-weight: 100;}
+h2{font-family:'Times New Roman', Times, serif;
+color: rgb(33, 22, 83);}
+footer{height: 200px;
+background-color: rgb(215, 232, 234) ;}
+#igben{display: inline;
+color: black;
+background-color: rgb(215, 232, 234);}
+a{text-decoration: none;}
+hr{height: 5px;
+background-color: aqua;}
+

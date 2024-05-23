@@ -1,0 +1,9 @@
+div{color:black;
+    background-color: beige;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 100%;
+display: inline-block;
+width: 33.3%;
+float: right;
+height: 5cm;
+overflow: scroll;}

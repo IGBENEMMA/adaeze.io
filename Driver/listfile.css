@@ -1,0 +1,5 @@
+ul{list-style-type: lower-roman;}
+ol{list-style-type: square;}
+div{display: inline-block;}
+/* #fool{font-size: 200%;} */
+/* ul, ol{list-style-image: url(pics.jpg);} */

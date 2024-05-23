@@ -1,0 +1,9 @@
+img{ width: 200px;
+height: 200px;}
+p{text-align: center;
+color: blue;}
+div{display: inline-block;}
+body{background-color: antiquewhite;}
+main{display: grid;
+grid-template-columns:25% 25% 25%;
+justify-content: space-around;}

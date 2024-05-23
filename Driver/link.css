@@ -1,0 +1,18 @@
+a{display: block; 
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 120%;
+background: fixed;
+background-color: rgb(118, 207, 207);
+text-decoration: none;
+color: brown;
+padding-left: 4px;
+width: 200px;
+height: 50px;
+text-align: center;
+margin: auto;}
+
+a:hover{background-color: rgb(186, 162, 186);}
+a:focus{background-color: orange;}
+
+a:active{border: 3px solid black}
+/* text decoration is used to remove the line taht shows up under the link */
